@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual Studio\\source\\repos\\videojuegos3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|d:\\visual studio\\source\\repos\\videojuegos3d\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|d:\\visual studio\\source\\repos\\videojuegos3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|D:\\visual Studio\\source\\repos\\videojuegos3d\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|D:\\visual Studio\\source\\repos\\videojuegos3d\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|D:\\visual Studio\\source\\repos\\videojuegos3d\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B2EBB0-11E3-446B-8218-EEC3E4064946}|videojuegos3d.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T22:14:02.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:11:15.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T22:18:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:10:38.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "D:\\visual Studio\\source\\repos\\videojuegos3d\\Cuadrado.cs",
+              "RelativeToolTip": "Cuadrado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:10:52.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

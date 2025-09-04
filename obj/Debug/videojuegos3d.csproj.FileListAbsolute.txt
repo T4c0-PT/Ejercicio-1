@@ -1,0 +1,8 @@
+D:\visual Studio\source\repos\videojuegos3d\bin\Debug\videojuegos3d.exe.config
+D:\visual Studio\source\repos\videojuegos3d\bin\Debug\videojuegos3d.exe
+D:\visual Studio\source\repos\videojuegos3d\bin\Debug\videojuegos3d.pdb
+D:\visual Studio\source\repos\videojuegos3d\obj\Debug\videojuegos3d.csproj.AssemblyReference.cache
+D:\visual Studio\source\repos\videojuegos3d\obj\Debug\videojuegos3d.csproj.CoreCompileInputs.cache
+D:\visual Studio\source\repos\videojuegos3d\obj\Debug\videojuegos3d.exe
+D:\visual Studio\source\repos\videojuegos3d\obj\Debug\videojuegos3d.pdb
+D:\visual Studio\source\repos\videojuegos3d\obj\Debug\videojuegos3d.exe.config
