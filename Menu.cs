@@ -135,7 +135,7 @@ namespace videojuegos3d
                     Console.Clear(); Console.WriteLine("cerrando");
                     break;
                 default:
-                    break;
+                    break;ss
             }
         }*/
 
